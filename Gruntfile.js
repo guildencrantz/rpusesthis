@@ -8,14 +8,14 @@ module.exports = function(grunt) {
       },
       all: [
         'Gruntfile.js',
-        'assets/javascripts/*.js',
-        '!assets/javascripts/scripts.min.js'
+        'source/assets/javascripts/*.js',
+        'source/assets/javascripts/scripts.min.js'
       ]
     },
     sass: {
       dist: {
         files: {
-          'assets/stylesheets/styles.min.css' : 'assets/stylesheets/source/styles.scss'
+          'source/assets/stylesheets/styles.min.css' : 'source/assets/stylesheets/source/styles.scss'
         },
         options: {
           style: 'compressed',
@@ -26,13 +26,13 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'assets/javascripts/scripts.min.js': [
-            'assets/javascripts/source/*.js'
+          'source/assets/javascripts/scripts.min.js': [
+            'source/assets/javascripts/source/*.js'
           ]
         },
         options: {
           // JS source map: to enable, uncomment the lines below and update sourceMappingURL based on your install
-          // sourceMap: 'assets/javascripts/scripts.min.js.map',
+          // sourceMap: 'source/assets/javascripts/scripts.min.js.map',
           // sourceMappingURL: '/app/themes/roots/assets/javascripts/scripts.min.js.map'
         }
       }
@@ -40,7 +40,7 @@ module.exports = function(grunt) {
     watch: {
       sass: {
         files: [
-          'assets/stylesheets/source/**/*.scss'
+          'source/assets/stylesheets/source/**/*.scss'
         ],
         tasks: ['sass']
       },
@@ -48,7 +48,7 @@ module.exports = function(grunt) {
         files: [
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint', 'uglify']
+        tasks: ['uglify']
       },
       livereload: {
         // Browser live reloading
@@ -57,15 +57,15 @@ module.exports = function(grunt) {
           livereload: false
         },
         files: [
-          'assets/stylesheets/styles.min.css',
-          'assets/javascripts/scripts.min.js',
+          'source/assets/stylesheets/styles.min.css',
+          'source/assets/javascripts/scripts.min.js',
         ]
       }
     },
     clean: {
       dist: [
-        'assets/stylesheets/styles.min.css',
-        'assets/javascripts/scripts.min.js'
+        'source/assets/stylesheets/styles.min.css',
+        'source/assets/javascripts/scripts.min.js'
       ]
     }
   });
