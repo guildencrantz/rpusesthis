@@ -1,7 +1,6 @@
-//
-// Grid system
-// --------------------------------------------------
-
+// ============================================================================
+// Grid System
+// ============================================================================
 
 // Container widths
 //
@@ -13,14 +12,15 @@
   @media (min-width: $screen-sm-min) {
     width: $container-sm;
   }
+
   @media (min-width: $screen-md-min) {
     width: $container-md;
   }
+
   @media (min-width: $screen-lg-min) {
     width: $container-lg;
   }
 }
-
 
 // Fluid container
 //
@@ -31,7 +31,6 @@
   @include container-fixed();
 }
 
-
 // Row
 //
 // Rows contain and clear the floats of your columns.
@@ -40,13 +39,11 @@
   @include make-row();
 }
 
-
 // Columns
 //
 // Common styles for small and large grid columns
 
 @include make-grid-columns();
-
 
 // Extra small grid
 //
@@ -58,7 +55,6 @@
 @include make-grid($grid-columns, xs, pull);
 @include make-grid($grid-columns, xs, push);
 @include make-grid($grid-columns, xs, offset);
-
 
 // Small grid
 //
@@ -73,7 +69,6 @@
   @include make-grid($grid-columns, sm, offset);
 }
 
-
 // Medium grid
 //
 // Columns, offsets, pushes, and pulls for the desktop device range.
@@ -85,7 +80,6 @@
   @include make-grid($grid-columns, md, push);
   @include make-grid($grid-columns, md, offset);
 }
-
 
 // Large grid
 //

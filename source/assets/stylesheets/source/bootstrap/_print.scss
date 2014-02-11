@@ -1,15 +1,15 @@
-//
-// Basic print styles
-// --------------------------------------------------
-// Source: https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
+// ============================================================================
+// Print
+// ============================================================================
+
+// @link: https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
 
 @media print {
-
   * {
-    text-shadow: none !important;
-    color: #000 !important; // Black prints faster: h5bp.com/s
     background: transparent !important;
     box-shadow: none !important;
+    color: #000 !important; // Black prints faster: h5bp.com/s
+    text-shadow: none !important;
   }
 
   a,
@@ -72,18 +72,21 @@
   .navbar {
     display: none;
   }
+
   .table {
     td,
     th {
       background-color: #fff !important;
     }
   }
+
   .btn,
   .dropup > .btn {
     > .caret {
       border-top-color: #000 !important;
     }
   }
+
   .label {
     border: 1px solid #000;
   }
@@ -91,11 +94,11 @@
   .table {
     border-collapse: collapse !important;
   }
+
   .table-bordered {
     th,
     td {
       border: 1px solid #ddd !important;
     }
   }
-
 }

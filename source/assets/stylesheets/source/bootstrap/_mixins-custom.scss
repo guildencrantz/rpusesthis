@@ -1,0 +1,31 @@
+// ============================================================================
+// Custom Mixins
+// ============================================================================
+
+// Full-width bars
+// Source: http://css-tricks.com/full-browser-width-bars/
+@mixin full-width-bars($background) {
+  background: $background;
+
+  &:before,
+  &:after {
+    background: $background;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 9999px;
+    z-index: $zindexFixedNavbar;
+  }
+
+  &:before { right: 100%; }
+  &:after  { left: 100%; }
+}
+
+// SVG image packground w/ PNG fallback
+// ----------------------------------------------------------------------------
+
+@mixin svg-bg($name) {
+  background: url('../images/#{$name}.png') transparent 0 0 no-repeat; // IE8 & below
+  background: none, url('../images/#{$name}.svg') 0 0 no-repeat;
+}

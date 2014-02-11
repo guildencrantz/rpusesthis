@@ -1,4 +1,4 @@
-// Core variables and mixins
+// Global
 @import "variables";
 @import "mixins";
 
@@ -6,44 +6,43 @@
 @import "normalize";
 @import "print";
 
-// Core CSS
-@import "scaffolding";
+// Base
+@import "layout";
 @import "type";
 @import "code";
 @import "grid";
 @import "tables";
 @import "forms";
-@import "buttons";
 
-// Components
-@import "component-animations";
-@import "glyphicons";
-@import "dropdowns";
-@import "button-groups";
-@import "input-groups";
-@import "navs";
-@import "navbar";
-@import "breadcrumbs";
-@import "pagination";
-@import "pager";
-@import "labels";
-@import "badges";
-@import "jumbotron";
-@import "thumbnails";
+// Modules
 @import "alerts";
-@import "progress-bars";
-@import "media";
-@import "list-group";
-@import "panels";
-@import "wells";
+@import "animations";
+@import "badges";
+@import "breadcrumbs";
+@import "button-groups";
+@import "buttons";
 @import "close";
+@import "dropdowns";
+@import "icons";
+@import "input-groups";
+@import "labels";
+@import "list-group";
+@import "media";
+@import "navbar";
+@import "navs";
+@import "pager";
+@import "pagination";
+@import "panels";
+@import "progress-bars";
+@import "thumbnails";
+@import "wells";
 
-// Components w/ JavaScript
-@import "modals";
-@import "tooltip";
-@import "popovers";
+// Modules with JavaScript
 @import "carousel";
+@import "modals";
+@import "popovers";
+@import "tooltips";
 
-// Utility classes
+// Utilities
+// Must be imported last to override any possible conflicts
 @import "utilities";
-@import "responsive-utilities";
