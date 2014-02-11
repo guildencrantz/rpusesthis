@@ -5,6 +5,7 @@
 // Use this file to compile all of your stylesheets into a single, minified
 // file to cut down on page requests.
 
-@import 'bootstrap/bootstrap';
+@import "bootstrap/bootstrap";
 
 // Import your  application-specific templates and stylesheets here
+@import "templates/layout";

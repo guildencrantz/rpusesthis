@@ -11,6 +11,8 @@
     <title><%= current_page.data.title || "RP Uses This" %></title>
     <%= stylesheet_link_tag "styles.min" %>
     <%= javascript_include_tag  "scripts.min" %>
+    <script type="text/javascript" src="//use.typekit.net/gng5nqs.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   </head>
   <body class="<%= page_classes %>">
     <!--[if lt IE 7]>
@@ -18,10 +20,11 @@
     <![endif]-->
 
     <header>
-      <p>Header</p>
+    <a class="brand" href="">RP Uses This</a>
     </header>
 
     <main>
+      <h1><%= current_page.data.title %></h1>
       <%= yield %>
     </main>
 
