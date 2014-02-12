@@ -10,13 +10,13 @@ $bootstrap-sass-asset-helper: (twbs-font-path("") != unquote('twbs-font-path("")
 // Colors
 // ----------------------------------------------------------------------------
 
-$gray-darker:            lighten(#000, 13.5%) !default; // #222
-$gray-dark:              lighten(#000, 20%) !default;   // #333
-$gray:                   lighten(#000, 33.5%) !default; // #555
-$gray-light:             lighten(#000, 60%) !default;   // #999
-$gray-lighter:           lighten(#000, 93.5%) !default; // #eee
+$gray-darker:           lighten(#000, 13.5%) !default; // #222
+$gray-dark:             lighten(#000, 20%) !default;   // #333
+$gray:                  lighten(#000, 33.5%) !default; // #555
+$gray-light:            lighten(#000, 60%) !default;   // #999
+$gray-lighter:          lighten(#000, 93.5%) !default; // #eee
 
-$brand-primary:         #428bca !default;
+$brand-primary:         #F77268 !default;
 $brand-success:         #5cb85c !default;
 $brand-info:            #5bc0de !default;
 $brand-warning:         #f0ad4e !default;
@@ -34,8 +34,8 @@ $link-hover-color:      darken($link-color, 15%) !default;
 // Typography
 // ----------------------------------------------------------------------------
 
-$font-family-sans-serif:  "rooney-web", $helvetica !default;
-$font-family-serif:       $georgia !default;
+$font-family-sans-serif:  "adelle-sans", $helvetica !default;
+$font-family-serif:       "rooney-web", $georgia !default;
 $font-family-monospace:   $monospace !default;
 $font-family-base:        $font-family-sans-serif !default;
 

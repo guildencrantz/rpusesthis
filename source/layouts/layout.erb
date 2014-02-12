@@ -18,15 +18,23 @@
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-
     <header>
-    <a class="brand" href="">RP Uses This</a>
+      <div class="wrap">
+        <a class="brand" href="">RP Uses This</a>
+        <ul class="nav nav-pills nav-main">
+          <li><%= link_to "Home", "/index.html" %></li>
+          <li><%= link_to "About", "/about.html" %></li>
+          <li><%= link_to "Interviews", "/interviews.html" %></li>
+        </ul>
+      </div>
     </header>
 
-    <main>
-      <h1><%= current_page.data.title %></h1>
-      <%= yield %>
-    </main>
+    <div class="wrap">
+      <main>
+        <h1><%= current_page.data.title %></h1>
+        <%= yield %>
+      </main>
+    </div>
 
     <footer>
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
