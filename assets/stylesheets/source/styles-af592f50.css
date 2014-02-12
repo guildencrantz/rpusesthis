@@ -3824,3 +3824,6 @@ body {
 /* line 6, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_interviews.scss */
 .article-list li + li {
   border-top: 2px solid #555555; }
+/* line 11, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_interviews.scss */
+.article-list img {
+  margin-top: 10px; }
