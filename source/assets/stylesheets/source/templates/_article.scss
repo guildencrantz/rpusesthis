@@ -1,0 +1,42 @@
+// ============================================================================
+// Articles
+// ============================================================================
+
+.article {
+  border-bottom: 2px solid $gray-dark;
+  margin-bottom: $article-padding-base;
+  padding-bottom: $article-padding-base;
+}
+
+.article-header {
+  a {
+    @include clearfix;
+    display: block;
+    line-height: $article-header-height;
+
+    // Get rid of the default border on hover
+    &:hover {
+      border-color: transparent;
+    }
+  }
+
+  .avatar,
+  .name {
+    float: left;
+  }
+
+  .name {
+    line-height: $article-header-height;
+    margin: 0 0 0 20px;
+  }
+
+  .avatar {
+    @include square(66px);
+    vertical-align: middle;
+  }
+
+  time {
+    color: $gray-light;
+    float: right;
+  }
+}

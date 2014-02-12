@@ -1,6 +1,6 @@
 ---
 pageable: true
-per_page: 10
+per_page: 3
 ---
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
@@ -11,10 +11,19 @@ per_page: 10
 <% end %>
 
 <% page_articles.each_with_index do |article, i| %>
-  <h2><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></h2>
-  <!-- use article.summary(250) if you have Nokogiri available to show just
-       the first 250 characters -->
-  <%= article.body %>
+  <article class="article <%= slugify(article.title) %>">
+    <header class="article-header">
+      <a href="<%= article.url %>" title="">
+        <%= image_tag slugify(article.title) + ".jpg", :class => "avatar img-circle" %>
+        <h3 class="name"><%= article.title %></h3>
+        <time><%= article.date.strftime('%b %e') %></time>
+      </a>
+    </header>
+    <main class="article-body">
+      <%= article.summary %>
+      <%= link_to 'Read more…', article %>
+    </main>
+  </article>
 <% end %>
 
 <% if paginate %>
