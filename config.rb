@@ -41,6 +41,10 @@ activate :livereload
 # Middleman navigation
 activate :navigation
 
+activate :blog do |blog|
+  # set options on blog
+end
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper
@@ -51,9 +55,6 @@ activate :navigation
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
-
-set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 # Build-specific configuration
 configure :build do
