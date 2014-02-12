@@ -12,4 +12,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 # Deploy to GitHub Pages
 gem "middleman-gh-pages"
 
-gem "middleman-navigation"
+gem "middleman-blog"
