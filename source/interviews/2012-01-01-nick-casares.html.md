@@ -1,5 +1,5 @@
 ---
-title: Example Article
+title: Nick Casares
 date: 2012-01-01
 tags: example
 ---
