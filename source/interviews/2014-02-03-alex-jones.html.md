@@ -1,7 +1,7 @@
 ---
 title: Alex Jones
 date: 2014-02-03
-tags: example
+avatar: alex-jones.jpg
 ---
 
 <!-- ## General Manager, Consumer & Developer Solutions (Codes) -->
