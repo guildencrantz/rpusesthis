@@ -38,12 +38,8 @@ activate :automatic_image_sizes
 # Reload the browser automatically whenever files change
 activate :livereload
 
-# Middleman navigation
-activate :navigation
-
-activate :blog do |blog|
-  # set options on blog
-end
+# List child pagews (navs)
+activate :listpages
 
 # Methods defined in the helpers block are available in templates
 # helpers do

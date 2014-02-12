@@ -12,5 +12,5 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 # Deploy to GitHub Pages
 gem "middleman-gh-pages"
 
-gem "middleman-navigation"
-gem "middleman-blog"
+# Create lists of child pages (navs)
+gem "middleman-listpages", "~> 0.0.2"
