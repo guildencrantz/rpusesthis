@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/interviews</id>
-  <link href="http://blog.url.com/interviews"/>
+  <id>http://blog.url.com/profiles</id>
+  <link href="http://blog.url.com/profiles"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
   <updated>2014-02-04T00:00:00Z</updated>
   <author>
@@ -11,10 +11,10 @@
   </author>
   <entry>
     <title>Hoon Park</title>
-    <link rel="alternate" href="http://blog.url.com/interviews/hoon-park/"/>
-    <id>http://blog.url.com/interviews/hoon-park/</id>
+    <link rel="alternate" href="http://blog.url.com/profiles/hoon-park/"/>
+    <id>http://blog.url.com/profiles/hoon-park/</id>
     <published>2014-02-04T00:00:00Z</published>
-    <updated>2014-02-12T16:30:33-06:00</updated>
+    <updated>2014-02-12T17:14:07-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,16 +23,14 @@
   </entry>
   <entry>
     <title>Alex Jones</title>
-    <link rel="alternate" href="http://blog.url.com/interviews/alex-jones/"/>
-    <id>http://blog.url.com/interviews/alex-jones/</id>
+    <link rel="alternate" href="http://blog.url.com/profiles/alex-jones/"/>
+    <id>http://blog.url.com/profiles/alex-jones/</id>
     <published>2014-02-03T00:00:00Z</published>
-    <updated>2014-02-12T16:27:15-06:00</updated>
+    <updated>2014-02-12T17:14:22-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;!-- ## General Manager, Consumer &amp; Developer Solutions (Codes) --&gt;
-
-&lt;h3 id="who-are-you-and-what-do-you-do"&gt;Who are you, and what do you do?&lt;/h3&gt;
+    <content type="html">&lt;h3 id="who-are-you-and-what-do-you-do"&gt;Who are you, and what do you do?&lt;/h3&gt;
 &lt;p&gt;Hi, I’m Alex Jones, the GM for the Codes team, based out of Austin, Texas. I’ve been building sites, products and services for the Internet since ‘94, working for a wide range of startups and agencies. I’ve shifted from development to design, to user experience, to product management and now to my role running this line of business. When time (and my awesome toddler Wyatt) allows, I dip back into coding and design. I start fires: sometimes sparking a community like &lt;a href="http://refreshaustin.org/"&gt;Refresh Austin&lt;/a&gt; and other times touching flame to charcoal to transform a few racks of cold ribs into hot, smokey perfection.&lt;/p&gt;
 
 &lt;p&gt;I am an information junkie and voracious reader. I’ve begun to learn Python, thanks to &lt;a href="http://www.codecademy.com/"&gt;Codecademy&lt;/a&gt; and am brushing up on my Spanish via &lt;a href="https://www.duolingo.com/"&gt;Duolingo&lt;/a&gt;. For this post, I am experimenting with &lt;a href="https://editorially.com"&gt;Editorially&lt;/a&gt;, a Web-based text editor for Markdown. I still don’t buy into the value of Markdown, but am going to give it another shot.&lt;/p&gt;
@@ -118,10 +116,10 @@
   </entry>
   <entry>
     <title>Andy Smith</title>
-    <link rel="alternate" href="http://blog.url.com/interviews/andy-smith/"/>
-    <id>http://blog.url.com/interviews/andy-smith/</id>
+    <link rel="alternate" href="http://blog.url.com/profiles/andy-smith/"/>
+    <id>http://blog.url.com/profiles/andy-smith/</id>
     <published>2014-02-02T00:00:00Z</published>
-    <updated>2014-02-12T16:27:08-06:00</updated>
+    <updated>2014-02-12T17:14:31-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -130,10 +128,10 @@
   </entry>
   <entry>
     <title>Nick Casares</title>
-    <link rel="alternate" href="http://blog.url.com/interviews/nick-casares/"/>
-    <id>http://blog.url.com/interviews/nick-casares/</id>
+    <link rel="alternate" href="http://blog.url.com/profiles/nick-casares/"/>
+    <id>http://blog.url.com/profiles/nick-casares/</id>
     <published>2014-02-01T00:00:00Z</published>
-    <updated>2014-02-12T16:26:36-06:00</updated>
+    <updated>2014-02-12T17:14:41-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>

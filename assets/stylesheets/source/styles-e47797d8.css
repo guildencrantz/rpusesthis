@@ -3779,16 +3779,9 @@ body {
   .content > h1 {
     margin: 0 0 52px; }
 
-/* line 5, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
-.article {
-  border-bottom: 2px solid #333333;
-  margin-bottom: 52px;
-  padding-bottom: 52px; }
-
-/* line 12, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+/* line 6, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
 .article-header a {
-  display: block;
-  line-height: 8.25rem; }
+  display: block; }
   /* line 20, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/bootstrap/_mixins.scss */
   .article-header a:before, .article-header a:after {
     content: " ";
@@ -3796,34 +3789,35 @@ body {
   /* line 25, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/bootstrap/_mixins.scss */
   .article-header a:after {
     clear: both; }
-  /* line 18, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+  /* line 11, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
   .article-header a:hover {
     border-color: transparent; }
-/* line 24, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+/* line 17, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
 .article-header .avatar,
-.article-header .name {
-  float: left; }
-/* line 28, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
-.article-header .name {
-  line-height: 8.25rem;
-  margin: 0 0 0 20px; }
-/* line 33, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
-.article-header .avatar {
-  height: 66px;
-  width: 66px;
+.article-header hgroup {
+  float: left;
   vertical-align: middle; }
-/* line 38, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
-.article-header time {
-  color: #999999;
-  float: right; }
+/* line 22, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+.article-header .avatar {
+  height: 55px;
+  width: 55px; }
+/* line 26, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+.article-header hgroup {
+  margin-left: 10px; }
+/* line 30, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+.article-header .name {
+  margin: 0; }
+/* line 34, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
+.article-header .position {
+  color: #999999; }
 
 /* line 6, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_home.scss */
 .index .content > h1 {
   display: none; }
 
-/* line 6, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_interviews.scss */
-.article-list li + li {
-  border-top: 2px solid #555555; }
-/* line 11, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_interviews.scss */
-.article-list img {
-  margin-top: 10px; }
+/* line 10, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_home.scss */
+.article-list li {
+  padding: 26px 0; }
+  /* line 13, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_home.scss */
+  .article-list li + li {
+    border-top: 2px solid #555555; }
