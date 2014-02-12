@@ -1,10 +1,9 @@
 ---
 title: Alex Jones
+position: General Manager, Consumer & Developer Solutions (Codes)
 date: 2014-02-03
 avatar: alex-jones.jpg
 ---
-
-<!-- ## General Manager, Consumer & Developer Solutions (Codes) -->
 
 ### Who are you, and what do you do?
 Hi, I’m Alex Jones, the GM for the Codes team, based out of Austin, Texas. I’ve been building sites, products and services for the Internet since ‘94, working for a wide range of startups and agencies. I’ve shifted from development to design, to user experience, to product management and now to my role running this line of business. When time (and my awesome toddler Wyatt) allows, I dip back into coding and design. I start fires: sometimes sparking a community like [Refresh Austin](http://refreshaustin.org/) and other times touching flame to charcoal to transform a few racks of cold ribs into hot, smokey perfection.

@@ -34,12 +34,13 @@ Now you can view the site via `http://localhost:4567/` in your browser. This is 
 
 ## Creating new posts
 
-Create a new markdown file in `/source/interviews/` with the following format: `[year]-[month]-[day]-[firstname]-[lastname].html.md`. The post should start with a YAML Frontmatter metadata section at the top, followed by your Markdown formatted post content. Something like this:
+Create a new markdown file in `/source/profiles/` with the following format: `[year]-[month]-[day]-[firstname]-[lastname].html.md`. The post should start with a YAML Frontmatter metadata section at the top, followed by your Markdown formatted post content. Something like this:
 
 **2014-02-14-mike-ditka.html.md**
 
     ---
     title: Mike Ditka
+    position: Head coach
     date: 2014-02-14
     avatar: mike-ditka.png
     ---
@@ -47,6 +48,7 @@ Create a new markdown file in `/source/interviews/` with the following format: `
     ## Your content here
 
 - **title**: The name of the person
+- **position**: You know, the person's job title.
 - **date**: The published date. Make sure it's the same date as the file name or else Middleman will complain.
 - **avatar**: drop an image in `/source/assets/images` and put the filename here. If you don't have an image for the interviewee, you can put `default.jpg` as the value here.
 
