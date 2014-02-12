@@ -99,6 +99,7 @@ configure :build do
 
   # Use relative URLs
   activate :relative_assets
+  set :relative_links, true
 
   # Pretty URLs
   activate :directory_indexes
