@@ -135,11 +135,11 @@ The stock apps that almost all of us use (like SSH and git) have some extremely 
 * [SSH config](http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/) can be used to accomplish magic
     * You can use ProxyCommand and (if you have keys setup) automatically hop through gateway boxes with [nc](http://linux.die.net/man/1/nc):
 
-```
+~~~~~~~~
 Host *.tst
 User mhenkel
 ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
-```
+~~~~~~~~
 
 ### Mobile
 
