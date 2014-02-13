@@ -42,7 +42,7 @@
     <link rel="alternate" href="http://blog.url.com/profiles/nick-casares/"/>
     <id>http://blog.url.com/profiles/nick-casares/</id>
     <published>2014-02-13T00:00:00Z</published>
-    <updated>2014-02-13T13:45:54-06:00</updated>
+    <updated>2014-02-13T14:04:51-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -66,7 +66,7 @@
 
 &lt;p&gt;Gmail, Outlook, Evernote and Trello are probably the most used tools and form the core of my communication, note taking and task management systems.&lt;/p&gt;
 
-&lt;p&gt;I stive for &lt;a href="http://inboxzero.com/"&gt;Inbox Zero&lt;/a&gt; so and I’ve honed my ability to follow the &lt;a href="http://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-and-get-1521792128"&gt;2 minute rule&lt;/a&gt;. I tend to delete more than I archive, but I keep temporary project folders for work in progress and items that need to be tracked for follow up. I also keep one massive archive folders (organized alphabetically) for projects and reference material.&lt;/p&gt;
+&lt;p&gt;I strive for &lt;a href="http://inboxzero.com/"&gt;Inbox Zero&lt;/a&gt; so and I’ve honed my ability to follow the &lt;a href="http://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-and-get-1521792128"&gt;2 minute rule&lt;/a&gt;. I tend to delete more than I archive, but I keep temporary project folders for work in progress and items that need to be tracked for follow up. I also keep one massive archive folders (organized alphabetically) for projects and reference material.&lt;/p&gt;
 
 &lt;p&gt;I’m a huge fan of &lt;a href="http://www.davidco.com/about-gtd"&gt;Getting Things Done&lt;/a&gt;, and I’ve tried at least a dozen systems over the past five years. After much experimentation, I’ve settled on Evernote as the core of my personal productivity system and Trello as the back bone of work task management. I tend to gravitate toward simple systems and both Evernote and Trello deliver a simple, multi-device experience that’s easy to update and share. I keep a single Evernote note for my personal GTD tracking and use a Trello board for tracking work related projects. When I need to buckle down and focus I crank up the tunes and practice the &lt;a href="http://pomodorotechnique.com/"&gt;Pomodoro Technique&lt;/a&gt;.&lt;/p&gt;
 
@@ -96,7 +96,7 @@
     <link rel="alternate" href="http://blog.url.com/profiles/matt-henkel/"/>
     <id>http://blog.url.com/profiles/matt-henkel/</id>
     <published>2014-02-13T00:00:00Z</published>
-    <updated>2014-02-13T14:01:37-06:00</updated>
+    <updated>2014-02-13T14:04:38-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -325,7 +325,7 @@ ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
 
 &lt;h3 id="mobile"&gt;Mobile&lt;/h3&gt;
 
-&lt;p&gt;My Nexus 5 is stock 4.4.2 (rooted) running the &lt;a href="http://getaviate.com/"&gt;Vviate&lt;/a&gt; launcher and &lt;a href="https://www.coverscreen.com/"&gt;Cover&lt;/a&gt; lock screen. The more location aware my phone is, the happier I am, and these two pieces of software really help make sure that I can quickly access what I need (and because there are things I always want quick access to I also run &lt;a href="https://play.google.com/store/apps/details?id=com.fb.looprtaskswitcher"&gt;loopr&lt;/a&gt;). In keeping with the location aware (and time aware) stuff, I've also programmed out a fair few actions (such as launching &lt;a href="https://www.waze.com/"&gt;Waze&lt;/a&gt; when I get in my car or silencing my phone and launching &lt;a href="https://play.google.com/store/apps/details?id=com.onemightyroar.lantern"&gt;Lantern: A Campfire Client&lt;/a&gt; when I get to the office) using &lt;a href="http://tasker.dinglisch.net/"&gt;Tasker&lt;/a&gt;. Do I even need to mention &lt;a href="http://evernote.com/"&gt;Evernote&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;My Nexus 5 is stock 4.4.2 (rooted) running the &lt;a href="http://getaviate.com/"&gt;Aviate&lt;/a&gt; launcher and &lt;a href="https://www.coverscreen.com/"&gt;Cover&lt;/a&gt; lock screen. The more location aware my phone is, the happier I am, and these two pieces of software really help make sure that I can quickly access what I need (and because there are things I always want quick access to I also run &lt;a href="https://play.google.com/store/apps/details?id=com.fb.looprtaskswitcher"&gt;loopr&lt;/a&gt;). In keeping with the location aware (and time aware) stuff, I've also programmed out a fair few actions (such as launching &lt;a href="https://www.waze.com/"&gt;Waze&lt;/a&gt; when I get in my car or silencing my phone and launching &lt;a href="https://play.google.com/store/apps/details?id=com.onemightyroar.lantern"&gt;Lantern: A Campfire Client&lt;/a&gt; when I get to the office) using &lt;a href="http://tasker.dinglisch.net/"&gt;Tasker&lt;/a&gt;. Do I even need to mention &lt;a href="http://evernote.com/"&gt;Evernote&lt;/a&gt;?&lt;/p&gt;
 
 &lt;p&gt;I'm also a big fan of seamlessly collecting stats about my life and as such I use both &lt;a href="http://www.moves-app.com/"&gt;Moves&lt;/a&gt; and &lt;a href="http://www.automatic.com/"&gt;Automatic&lt;/a&gt;.&lt;/p&gt;
 
