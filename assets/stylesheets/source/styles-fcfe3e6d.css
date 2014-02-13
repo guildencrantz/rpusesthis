@@ -3823,9 +3823,6 @@ body {
   /* line 49, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
   .article-list li + li {
     border-top: 2px solid #555555; }
-/* line 55, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_article.scss */
-.article-list img {
-  margin-top: 10px; }
 
 /* line 5, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_profile.scss */
 .page-title {

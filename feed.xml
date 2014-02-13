@@ -42,7 +42,7 @@
     <link rel="alternate" href="http://blog.url.com/profiles/nick-casares/"/>
     <id>http://blog.url.com/profiles/nick-casares/</id>
     <published>2014-02-13T00:00:00Z</published>
-    <updated>2014-02-13T14:04:51-06:00</updated>
+    <updated>2014-02-13T16:35:14-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -66,7 +66,7 @@
 
 &lt;p&gt;Gmail, Outlook, Evernote and Trello are probably the most used tools and form the core of my communication, note taking and task management systems.&lt;/p&gt;
 
-&lt;p&gt;I strive for &lt;a href="http://inboxzero.com/"&gt;Inbox Zero&lt;/a&gt; so and I’ve honed my ability to follow the &lt;a href="http://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-and-get-1521792128"&gt;2 minute rule&lt;/a&gt;. I tend to delete more than I archive, but I keep temporary project folders for work in progress and items that need to be tracked for follow up. I also keep one massive archive folders (organized alphabetically) for projects and reference material.&lt;/p&gt;
+&lt;p&gt;I strive for &lt;a href="http://inboxzero.com/"&gt;Inbox Zero&lt;/a&gt;, and I’ve honed my ability to follow the &lt;a href="http://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-and-get-1521792128"&gt;two minute rule&lt;/a&gt;. I tend to delete more than I archive, but I keep temporary project folders for work in progress and items that need to be tracked for follow up. I keep one massive archive folders (organized alphabetically) for projects and reference material.&lt;/p&gt;
 
 &lt;p&gt;I’m a huge fan of &lt;a href="http://www.davidco.com/about-gtd"&gt;Getting Things Done&lt;/a&gt;, and I’ve tried at least a dozen systems over the past five years. After much experimentation, I’ve settled on Evernote as the core of my personal productivity system and Trello as the back bone of work task management. I tend to gravitate toward simple systems and both Evernote and Trello deliver a simple, multi-device experience that’s easy to update and share. I keep a single Evernote note for my personal GTD tracking and use a Trello board for tracking work related projects. When I need to buckle down and focus I crank up the tunes and practice the &lt;a href="http://pomodorotechnique.com/"&gt;Pomodoro Technique&lt;/a&gt;.&lt;/p&gt;
 
@@ -341,11 +341,49 @@ ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
 </content>
   </entry>
   <entry>
+    <title>Mark Frein</title>
+    <link rel="alternate" href="http://blog.url.com/profiles/mark-frein/"/>
+    <id>http://blog.url.com/profiles/mark-frein/</id>
+    <published>2014-02-13T00:00:00Z</published>
+    <updated>2014-02-13T16:36:39-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="hard-systems-hardware--software"&gt;"Hard" systems (hardware &amp;amp; software)&lt;/h2&gt;
+
+&lt;p&gt;I have a &lt;a href="http://www.samsung.com/global/microsite/galaxynote3-gear/"&gt;Samsung Note 3&lt;/a&gt;. I get a lot of ribbing about it being a ludicrously large phone. It is. But it is nice that I can read on it easily and really do full emailing without squinting. It's like a mini-tablet.&lt;/p&gt;
+
+&lt;p&gt;I also have a &lt;a href="http://www.google.com/nexus/10/"&gt;16GB Wi-F I Google Nexus 10&lt;/a&gt; and a &lt;a href="https://www.apple.com/ipad-air/"&gt;16GB Wi-F I iPad Air&lt;/a&gt;. Sometimes, I wish I had more space on the iPad, but I don’t really use the Nexus tab for storage-hogging stuff. I don't really use the iPad much to get real stuff done. I find the Nexus a reliable workhorse tablet for emailing, calendaring, and general work stuff.&lt;/p&gt;
+
+&lt;p&gt;I have a custom PC home system (Intel Core2 Quad Processor Q8400 running at 2.66 GHz) with &lt;a href="http://en.wikipedia.org/wiki/Windows_7_editions"&gt;Windows 7 Home Premium&lt;/a&gt; (no way I'm going to 8), 4GB RAM, and a &lt;a href="http://www.geforce.com/hardware/desktop-gpus/geforce-8800-gt"&gt;NVIDIA 8800 Geforce GT&lt;/a&gt; graphics card. The only thing notable about my home computer set up are Logitech headphones and a &lt;a href="http://www.logitech.com/en-us/product/hd-pro-webcam-c920"&gt;Logitech HD Pro Webcam C920&lt;/a&gt; with &lt;a href="http://lenses.zeiss.com/"&gt;Carl Zeiss&lt;/a&gt; optics that allows for very good &lt;a href="http://www.skype.com/"&gt;Skype&lt;/a&gt; and &lt;a href="http://www.google.com/hangouts/"&gt;Google Hangouts&lt;/a&gt; video calls. And, a nice fat data stream from &lt;a href="http://www.timewarnercable.com/"&gt;Time Warner Cable&lt;/a&gt; that gives 50+ MBps down and about 5 up. I have a Dell laptop from Return Path that is &lt;em&gt;meh&lt;/em&gt; from a hardware perspective but boots fast (flash drive), so that's nice.&lt;/p&gt;
+
+&lt;p&gt;From a software perspective, my life revolves around my inbox and calendar in MS Outlook on all my devices. I haven't had time to really get Outlook set up smoothly yet at RP, and I am certainly not a successful &lt;a href="http://inboxzero.com/"&gt;inbox zero&lt;/a&gt; sort of guy. However, my inbox usually hovers around 100-200, and those are waiting to be filed(thus, the need to keep developing my Outlook filing structure). I also like &lt;a href="http://evernote.com/"&gt;Evernote&lt;/a&gt; quite a bit. I am increasingly turning to the Google cloud for my software operating system, particularly for the web, cloud storage, calendaring, and personal email and now also for social connectivity at work (Google Hangouts). I'm finding the &lt;a href="http://www.google.com/landing/now/"&gt;Google Now&lt;/a&gt; cards pretty useful, especially the time-to-destination information. I try to run most of my life device agnostic and just focused on cloud apps and email systems for device-neutrality.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href="http://www.viber.com/"&gt;Viber&lt;/a&gt; for communicating with my wife. I somewhat infrequently use &lt;a href="https://www.trillian.im/"&gt;Trillian&lt;/a&gt; for IM, mostly to my EC colleagues. I have to admit I'm not a diligent Salesforce &lt;a href="https://www.salesforce.com/chatter/"&gt;Chatter&lt;/a&gt; user. Google Cloud is a bit tricky considering I have an RP account now and have been using a personal account for years. It does seem that Google is making improvements on &lt;a href="https://support.google.com/accounts/answer/1721977"&gt;hot-switching between accounts&lt;/a&gt;, though.&lt;/p&gt;
+
+&lt;p&gt;Then, there are our People SaaS systems—&lt;a href="http://www.workday.com/"&gt;Workday&lt;/a&gt;, &lt;a href="http://recruiting.jobvite.com/"&gt;Jobvite&lt;/a&gt;, &lt;a href="http://intacct.com/"&gt;Intacct&lt;/a&gt;—and cool internal apps like &lt;a href="http://rpfaces.returnpath.net/"&gt;RP Faces&lt;/a&gt;. I use the ones I have to when I have to, and RP Faces has been a great way to get to know people.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.linkedin.com/"&gt;LinkedIn&lt;/a&gt; is my go-to social media app, especially &lt;a href="https://play.google.com/store/apps/details?id=com.linkedin.android"&gt;on my phone&lt;/a&gt;. I get feeds of interesting reading material through LinkedIn and it is the only thing I use for work-based social connectivity. I drive my social media presence through LinkedIn as well.&lt;/p&gt;
+
+&lt;p&gt;I still really like the phone—highly efficient, particularly for one-on-ones. When not in person, I probably communicate most by email, second most by phone or Skype/GoogleHangout, third by IM (Trillian), and a distant fourth by texting on my phone.&lt;/p&gt;
+
+&lt;h2 id="soft-systems-skill-and-behaviors"&gt;"Soft" systems (skill and behaviors)&lt;/h2&gt;
+
+&lt;p&gt;The most valuable class I had in junior high school was &lt;a href="http://en.wikipedia.org/wiki/Touch_typing"&gt;touch typing&lt;/a&gt;. I type fast (75 WPM). That has always been a huge part of my operating system.&lt;/p&gt;
+
+&lt;p&gt;I don't compartmentalize my work/life. This is good and bad. I am on work email from when I get up in the morning until when I go to bed. I do not think I'm ever rude or distracted with my friends or family, but I make an effort of always being available for short correspondences, no matter the day or time (usually over email or Trillian). And, that's a reasonable expectation for my role—I don't expect the same from my reports.&lt;/p&gt;
+
+&lt;p&gt;Since I've been part of a couple of startups, I have never had the luxury of big-organization admin support. As a consequence, I've had to get pretty disciplined about managing my own calendar, notes, and to-do lists.&lt;/p&gt;
+
+&lt;p&gt;I don't think I take enough advantage of things like speech recognition and some of the full capacity of the software systems I do use. I think I could be far more effective if I did.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Margaret Farmakis</title>
     <link rel="alternate" href="http://blog.url.com/profiles/margaret-farmakis/"/>
     <id>http://blog.url.com/profiles/margaret-farmakis/</id>
     <published>2014-02-13T00:00:00Z</published>
-    <updated>2014-02-13T13:47:14-06:00</updated>
+    <updated>2014-02-13T16:35:14-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -371,24 +409,24 @@ ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
   &lt;li&gt;&lt;a href="http://www.adobe.com/products/adobeconnect.html"&gt;Adobe Connect&lt;/a&gt; (This is my favorite way to have a large group video conference so far. I'm in the process of getting a license for my team as I think it's much better than ReadyTalk and Google Hangouts.)&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.techsmith.com/snagit.html"&gt;Snagit&lt;/a&gt; (I take a lot of screenshots)&lt;/li&gt;
   &lt;li&gt;AIM/&lt;a href="https://www.trillian.im/"&gt;Trillian&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;ReadyTalk Quick Launcher (helps with common RT issue)&lt;/li&gt;
-  &lt;li&gt;Firefox (almost always)&lt;/li&gt;
-  &lt;li&gt;IE (sometimes; I use IE for GPPS and Firefox for Gmail so I can stay logged on to both at the same time. Also, I have more favorites in IE so sometimes just default to that for certain websites.)&lt;/li&gt;
-  &lt;li&gt;Wiki (a necessary evil)&lt;/li&gt;
-  &lt;li&gt;Skype&lt;/li&gt;
-  &lt;li&gt;Dropbo&lt;/li&gt;
-  &lt;li&gt;iTunes (although I’m an Android fan)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.readytalk.com/blog/collaboration/new-readytalk-quick-launcher"&gt;ReadyTalk Quick Launcher&lt;/a&gt; (helps with common ReadyTalk issues)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.mozilla.org/en-US/firefox/new/"&gt;Firefox&lt;/a&gt; (almost always)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.microsoft.com/internetexplorer"&gt;Internet Explorer&lt;/a&gt; (sometimes; I use IE for GPPS and Firefox for Gmail so I can stay logged on to both at the same time. Also, I have more favorites in IE so sometimes just default to that for certain websites.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.atlassian.com/software/confluence"&gt;Wiki&lt;/a&gt; (a necessary evil)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.skype.com/"&gt;Skype&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.dropbox.com/"&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.apple.com/itunes/"&gt;iTunes&lt;/a&gt; (although I’m an Android fan)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="other-random-stuff"&gt;Other random stuff&lt;/h2&gt;
 
-&lt;p&gt;In terms of life, I don’t know how I ever survived without Google Maps on a smartphone. I have a terrible sense of direction and I travel a lot, so this is essential.&lt;/p&gt;
+&lt;p&gt;In terms of life, I don’t know how I ever survived without &lt;a href="https://maps.google.com/"&gt;Google Maps&lt;/a&gt; on a &lt;a href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps"&gt;smartphone&lt;/a&gt;. I have a terrible sense of direction and I travel a lot, so this is essential.&lt;/p&gt;
 
-&lt;p&gt;I also read a ton, but don’t currently have a Kindle because I still like the feeling of turning actual pages and adding completed books to my home library.&lt;/p&gt;
+&lt;p&gt;I also read a ton, but don’t currently have a Kindle because I still like the feeling of &lt;a href="http://www.amazon.com/books-used-books-textbooks/b/?node=283155"&gt;turning actual pages and adding completed books&lt;/a&gt; to my home library.&lt;/p&gt;
 
-&lt;p&gt;I’m in the market for a tablet or very light-weight laptop for personal travel, especially since I’ll be taking my sabbatical this year!&lt;/p&gt;
+&lt;p&gt;I’m in the market for a tablet or very light-weight laptop for personal travel, especially since I’ll be taking my &lt;a href="http://www.onlyonceblog.com/2014/01/sabbaticals"&gt;sabbatical&lt;/a&gt; this year!&lt;/p&gt;
 
-&lt;p&gt;I’ll all about green tea (not coffee) and love my innovative loose leaf tea strainer/brewer (Teavana Perfect TeaMaker), plus their tea is delicious and the have an incredible selection. I happen to love a combination of  green and mint tea combination. This is a great for people who want the benefits of green tea but don't like the taste of it. For example, at work when I make tea, I use both a green tea bag and a mint tea bag in the same cup.&lt;/p&gt;
+&lt;p&gt;I’ll all about green tea (not coffee) and love my &lt;a href="http://www.teavana.com/tea-products/tea-makers-infusers/p/teavana-perfect-teamaker"&gt;Teavana Perfect TeaMaker&lt;/a&gt;. &lt;a href="http://www.teavana.com/"&gt;Teavana&lt;/a&gt; has an incredible selection of delicious tea. I happen to love a combination of green and mint tea. This is a great for people who want the benefits of green tea but don't like the taste of it. For example, at work when I make tea, I use both a green tea bag and a mint tea bag in the same cup.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -439,56 +477,6 @@ ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
 &lt;p&gt;&lt;a href="http://www.rememberthemilk.com/"&gt;Remember the Milk&lt;/a&gt; for task management—I have a list for routine tasks so I remember to do them – it’s the only way I remember to clean the air filter every three months, pay bills weekly, get my flu shot, etc. I also keep my shopping list on RTM so any time I’m out I remember what I need to pick up. I hooked RTM up to &lt;a href="http://www.apple.com/ios/siri/"&gt;Siri&lt;/a&gt; so she tells RTM when I ask her to remind me of something.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="http://digg.com/reader"&gt;Digg Reader&lt;/a&gt; for personal blog reading—I seem to be the only person who doesn’t like &lt;a href="http://feedly.com/"&gt;Feedly&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Andrew Harrison</title>
-    <link rel="alternate" href="http://blog.url.com/profiles/andrew-harrison/"/>
-    <id>http://blog.url.com/profiles/andrew-harrison/</id>
-    <published>2014-02-13T00:00:00Z</published>
-    <updated>2014-02-13T13:47:31-06:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="who-are-you-and-what-do-you-do"&gt;Who are you, and what do you do?&lt;/h2&gt;
-
-&lt;p&gt;"Software Engineer, futurist, technologist, outdoor enthusiast, husband and father of 2" is what my LinkedIn profile says, which is accurate, if not a bit terse. I knew from a young age that my interests were in computers. I was the kid in elementary school who would rush to finish his in-class homework before the bus came to sneak in a few minutes of time on the &lt;a href="http://en.wikipedia.org/wiki/Apple_II"&gt;Apple II&lt;/a&gt;. My first language was &lt;a href="http://en.wikipedia.org/wiki/BASIC"&gt;BASIC&lt;/a&gt;, which I started tinkering with in 5th grade. I spent my first $900 to buy a used &lt;a href="http://en.wikipedia.org/wiki/Macintosh_Classic_II"&gt;Macintosh Classic II&lt;/a&gt; in 1992 from my high school math teacher, Mr. Brown, who also got me excited about mathematics.&lt;/p&gt;
-
-&lt;p&gt;Growing up in a small farm community in rural southwest Nebraska, I had no desire to get lost on a giant University campus, and so found what turned out to be a perfect college for me in &lt;a href="http://www.rose-hulman.edu/"&gt;Rose-Hulman&lt;/a&gt;, situated on the outskirts of 'lovely' Terre Haute, Indiana. After graduating with a dual-major in Computer Science and Mathematics, I took a job in Indianapolis at Software Artistry, the company I had already been introduced to through my Senior project and co- op work.&lt;/p&gt;
-
-&lt;p&gt;By the end of college I had become fluent in &lt;a href="https://www.java.com/"&gt;Java&lt;/a&gt;, the language I've focused almost exclusively on for the past 14 years. The software industry in Indiana was quite run-of-the-mill as far as exciting work goes, and after struggling to find jobs anywhere outside of the insurance industry, I looked elsewhere, setting my sights on Colorado, where I found ColdSpark, a small company trying to make it big in email.&lt;/p&gt;
-
-&lt;p&gt;After 4 exciting years at ColdSpark, I did what many others from that company did, and found my way down the street to Return Path, where I will be celebrating my 4-year anniversary next month. Having the opportunity to transfer domain-knowledge can be rare in the software space, and it was refreshing to be able to start a new job at RP with some experience already in the email space.&lt;/p&gt;
-
-&lt;p&gt;I've bounced around quite a bit at Return Path, working at times on versions of InboxMonitor, InboxPreview, RNBL, SenderScore, and the project that became Inbox Insight. After the OtherInbox acquisition, I was presented the opportunity to join their Engineering group, working on what has ultimately become the Data Pipeline team, picking up the &lt;a href="https://www.ruby-lang.org/"&gt;Ruby&lt;/a&gt; programming language along the way, to great joy. Ultimately, my family and I decided that we would take a plunge and choose a change of scenery, and we closed on our house in Austin last July.&lt;/p&gt;
-
-&lt;h2 id="what-hardware-do-you-use"&gt;What hardware do you use?&lt;/h2&gt;
-
-&lt;h3 id="work"&gt;Work&lt;/h3&gt;
-&lt;p&gt;My dev box is a &lt;a href="http://www.dell.com/us/p/xps-13-9333/pd"&gt;Dell XPS 13&lt;/a&gt;, with a solid-state drive, running &lt;a href="http://www.linuxmint.com/"&gt;Linux Mint 15&lt;/a&gt;. I also have to pair that with a set of &lt;a href="http://www.skullcandy.com/shop/inkd"&gt;SkullCandy Ink'd&lt;/a&gt; headphones (I have black, red, and gray). Oddly, I find some days I can't concentrate if I don't have headphones on, even if no music is playing. Oh, and a good ergonomic wireless mouse, as close in shape as possible to the &lt;a href="http://amzn.com/B00005BAUL"&gt;IBM 19K2002&lt;/a&gt; (I've worn two of those out over the years).&lt;/p&gt;
-
-&lt;h3 id="home"&gt;Home&lt;/h3&gt;
-&lt;p&gt;I tend to favor &lt;a href="http://www.asus.com/"&gt;ASUS&lt;/a&gt; brand hardware, buying barebones machines and then assembling them when they arrive in the mail. Our latest family "desktop" purchase was an ASUS laptop, running, sadly, Windows. As for smartphones, I run Android.&lt;/p&gt;
-
-&lt;p&gt;My most recent purchase was a &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; which came in the mail last week. I have plans to have it running Google Calendar, attached to a screen mounted near the kitchen.&lt;/p&gt;
-
-&lt;p&gt;For the kids, we've purchased Bo &amp;amp; Yana from &lt;a href="https://www.play-i.com/"&gt;Play-i&lt;/a&gt;, but they've yet to be shipped. I'm really looking forward to teaching my 2- and 4-year-old how to program robots.&lt;/p&gt;
-
-&lt;p&gt;Other hardware of note:
-* &lt;a href="http://en.wikipedia.org/wiki/Apple_IIe"&gt;Apple IIe&lt;/a&gt;
-* Macintosh Classic II (yes, the same one)
-* &lt;a href="http://en.wikipedia.org/wiki/SPARCstation_5"&gt;SPARCstation 5&lt;/a&gt;
-* &lt;a href="http://en.wikipedia.org/wiki/Sun_Fire"&gt;Sun Fire&lt;/a&gt; X4100
-* &lt;a href="http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_rebel_t3i_18_55mm_is_ii_lens_kit"&gt;Canon Rebel T3i&lt;/a&gt;
-* &lt;a href="http://www.google.com/nexus/5/"&gt;Galaxy Nexus&lt;/a&gt; (currently the 4, but will be getting the 5 once my contract is up shortly)
-* &lt;a href="http://www.skagen.com/store/Skagen/en_US/shop/mens/mens_watches.html"&gt;Skagen&lt;/a&gt; watch (Titanium 205LTXN)
-* &lt;a href="http://www.adidas.com/us/product/mens-running-kanadia-trail-6-shoes/IET62"&gt;Adidas Kanadia TR&lt;/a&gt; running shoes (I wore out two model 3s, wearing a model 4 now, and have a model 5 in the closet.)&lt;/p&gt;
-
-&lt;h2 id="what-software-do-you-use"&gt;What software do you use?&lt;/h2&gt;
-
-&lt;p&gt;Primarily I'm in a Linux environment, preferably a flavor of &lt;a href="http://www.ubuntu.com/"&gt;Ubuntu&lt;/a&gt;. I exclusively use &lt;a href="http://www.google.com/chrome/‎"&gt;Chrome&lt;/a&gt; for browsing, and &lt;a href="http://www.jetbrains.com/idea/"&gt;IntelliJ IDEA&lt;/a&gt; and &lt;a href="http://www.jetbrains.com/ruby/"&gt;RubyMine&lt;/a&gt; IDEs for software development. For really hairy diffs, and especially when comparing folder/file structure, I use &lt;a href="http://www.scootersoftware.com/moreinfo.php"&gt;Beyond Compare&lt;/a&gt;. And yes, I'm an &lt;a href="http://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt; guy.&lt;/p&gt;
-
-&lt;p&gt;Online, one notable app I've come to love is &lt;a href="https://getpocket.com/"&gt;Pocket&lt;/a&gt;. You should check it out.&lt;/p&gt;
 </content>
   </entry>
 </feed>
