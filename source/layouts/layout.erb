@@ -32,7 +32,12 @@
 
     <div class="wrap">
       <main class="content">
-        <h1><%= current_page.data.title %></h1>
+        <% if current_page.data.title? %>
+          <h1 class="page-title"><%= current_page.data.title %></h1>
+        <% end %>
+        <% if current_page.data.position? %>
+          <h2 class="page-position"><%= current_page.data.position %></h2>
+        <% end %>
         <%= yield %>
       </main>
     </div>

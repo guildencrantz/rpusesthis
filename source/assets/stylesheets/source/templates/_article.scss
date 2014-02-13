@@ -2,6 +2,9 @@
 // Articles
 // ============================================================================
 
+// Article header
+// ----------------------------------------------------------------------------
+
 .article-header {
   a {
     @include clearfix;
@@ -33,5 +36,23 @@
 
   .position {
     color: $gray-light;
+  }
+}
+
+// Article list
+// ----------------------------------------------------------------------------
+
+.article-list {
+  li {
+    padding: ($line-height-computed) 0;
+
+    + li {
+      border-top: 2px solid $gray;
+    }
+  }
+
+  // A brittle way of doing it, but TIME
+  img {
+    margin-top: 10px;
   }
 }

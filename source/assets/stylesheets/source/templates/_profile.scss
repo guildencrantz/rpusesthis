@@ -1,0 +1,16 @@
+// ============================================================================
+// Interviews
+// ============================================================================
+
+.page-title {
+  margin: 0;
+
+  + h2 {
+    margin: 0;
+    padding: $line-height-computed 0;
+    font-weight: normal;
+    color: $gray-light;
+    font-size: $font-size-large;
+    border-bottom: 2px solid $gray;
+  }
+}

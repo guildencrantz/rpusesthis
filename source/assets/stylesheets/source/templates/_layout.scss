@@ -58,8 +58,4 @@ body {
   border: 1px solid $gray-lighter;
   border-top: none;
   padding: $article-padding-base;
-
-  > h1 {
-    margin: 0 0 ($line-height-computed * 2);
-  }
 }

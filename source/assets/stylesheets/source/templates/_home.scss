@@ -2,16 +2,3 @@
 // Home
 // ============================================================================
 
-.index {
-  .content > h1 { display: none; }
-}
-
-.article-list {
-  li {
-    padding: ($line-height-computed) 0;
-
-    + li {
-      border-top: 2px solid $gray;
-    }
-  }
-}
