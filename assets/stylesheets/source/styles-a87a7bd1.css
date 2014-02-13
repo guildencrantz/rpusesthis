@@ -3827,11 +3827,12 @@ body {
 /* line 5, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_profile.scss */
 .page-title {
   margin: 0; }
-  /* line 8, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_profile.scss */
-  .page-title + h2 {
-    margin: 0;
-    padding: 26px 0;
-    font-weight: normal;
-    color: #999999;
-    font-size: 20px;
-    border-bottom: 2px solid #555555; }
+
+/* line 9, /Users/asmith/Dropbox/Syncs/Dev/rpusesthis/source/assets/stylesheets/source/templates/_profile.scss */
+.page-position {
+  margin: 0;
+  padding: 26px 0;
+  font-weight: normal;
+  color: #999999;
+  font-size: 20px;
+  border-bottom: 2px solid #555555; }
