@@ -1,20 +1,21 @@
 ---
 title: Alex Jones
 position: General Manager, Consumer & Developer Solutions (Codes)
-date: 2014-02-03
-avatar: alex-jones.jpg
+date: 2014-02-13
+avatar: alex-jones.png
 ---
 
-### Who are you, and what do you do?
+# Alex Jones
+## General Manager, Consumer & Developer Solutions (Codes)
+
+# Who are you, and what do you do?
 Hi, I’m Alex Jones, the GM for the Codes team, based out of Austin, Texas. I’ve been building sites, products and services for the Internet since ‘94, working for a wide range of startups and agencies. I’ve shifted from development to design, to user experience, to product management and now to my role running this line of business. When time (and my awesome toddler Wyatt) allows, I dip back into coding and design. I start fires: sometimes sparking a community like [Refresh Austin](http://refreshaustin.org/) and other times touching flame to charcoal to transform a few racks of cold ribs into hot, smokey perfection.
 
 I am an information junkie and voracious reader. I’ve begun to learn Python, thanks to [Codecademy](http://www.codecademy.com/) and am brushing up on my Spanish via [Duolingo](https://www.duolingo.com/). For this post, I am experimenting with [Editorially](https://editorially.com), a Web-based text editor for Markdown. I still don’t buy into the value of Markdown, but am going to give it another shot.
 
 I never spell *rhythm*  right the first time.
 
-READMORE
-
-### What hardware do you use?
+# What hardware do you use?
 For work, I use a 13” Macbook Air. I love this line of computers - they are so light, but powerful enough to handle all of the apps I run. At home, I have a four year old, 27” iMac that continues to rock. The giant screen, plus the processing power means the machine gets out of my way when I’m working on a design or code. I use a wireless keyboard and the Magic Trackpad for both. Gestures on the trackpad have made my life much easier and efficient, especially after customizing them with the free [BetterTouchTool](http://www.boastr.net/) utility. When at work, the laptop sits atop a [Rain mStand](http://www.raindesigninc.com/mstand.html). The [Brenthaven ProStyle Slim Pack](http://www.amazon.com/gp/product/B003UYT4FK/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003UYT4FK&linkCode=as2&tag=alexjones-20) is the best laptop bag that I’ve ever used. I bought it specifically because I wanted something small to ensure I travel light, and it’s served well in this role for the last two years.
 
 I have a space gray [iPhone 5S - 64GB](https://www.apple.com/iphone-5s/) with this [Rosewood case](https://www.etsy.com/transaction/161630905) I bought from [Nutbox on Etsy](https://www.etsy.com/shop/NUTBOX). I love both. I wrap my third generation iPad in a [Ridge case](http://www.amazon.com/gp/product/B007PA1K84/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007PA1K84&linkCode=as2&tag=alexjones-20)
@@ -31,7 +32,7 @@ For cooking, I use lump coal which burns hotter and lasts longer than standard b
 
 I haven’t posted my recipe for ribs or pork butt, but I have written up my method for [smoking a whole chicken](http://www.silverspider.com/2008/smoked-chicken-recipe/). As a tasty pairing, I highly recommend you [smoke some lemons](http://www.silverspider.com/2010/smoked-lemons/)  to use as the base for lemonade. Top it off with a touch of bourbon to add a great kick.
 
-### And what software?
+# And what software?
 I’ll start with one of the most important, yet underrated bits of functionality: backup. Having Timemachine baked into OS X has been great, but I also want an offsite backup for my home machines. Enter  [Backblaze](http://www.backblaze.com/partner/af1118 ). It works silently in the background and maintains revisions of every file for the last 30 days. For $5 a month per machine, it’s an easy purchase that has paid off a couple of times in the last two years.
 
 At home, I’m running Mavericks, the latest version of OS X. On the work laptop, I’m running OS 10.8 until Symantec updates disk encryption to support the new OS. While I await the update, I continue to use [TotalFinder](http://totalfinder.binaryage.com/) to provide the tabbed browsing added to Mavericks as well as a few other handy modifications. [Hazel](http://www.noodlesoft.com/hazel.php) automatically organizes files for me, based on rules I set up.
@@ -53,9 +54,9 @@ I use [Gmail’s keyboard shorcuts](http://visual.ly/minimalistic-gmail-cheat-sh
 [Calca](http://calca.io/), “the text editor that loves math” is a true gem. It has become my scratchpad for all forms of calculations. It’s human-readable and much more flexible than a spreadsheet. Here’s a simple calculation I ran a little while back:
 
 > **Start Q3 Total** = 2,259,195
->
+
 > **End Q3 Total** = 2,329,151
->
+
 > **Q3  Addition** = End Q3 Total - Start Q3 Total **=>** 69,956
 
 The value after *=>* is calculated by the app, changing on the fly, and I can use **Q3 Addition** as a variable in a new calculation. Awesome.
@@ -82,8 +83,7 @@ At every opportunity, I purchase from Amazon. Prime is one of the best deals I�
 
 When I have a few minutes to kill and am not in the mood to read, I like to play [Letterpress](https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8) on my iPhone or iPad, though the recently discovered [Threes](https://itunes.apple.com/us/app/threes!/id779157948?mt=8) has become pretty addictive.
 
-### What would be your dream setup?
+# What would be your dream setup?
 While a bit more RAM in my laptop and a 27” Thunderbolt display on the work desk would be nice, I’m pretty happy with my setup. If/when Apple releases a Macbook Air with a Retina display, I would love to have it.
-
 
 
