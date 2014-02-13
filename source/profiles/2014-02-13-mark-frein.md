@@ -2,12 +2,10 @@
 title: Mark Frein
 position: Senior Vice President, People
 date: 2014-02-13
-avatar: matt-frein.jpg
+avatar: mark-frein.jpg
 ---
 
-Here are some things that I believe help me get stuff done:
-
-# "Hard" systems (hardware & software)
+## "Hard" systems (hardware & software)
 
 I have a [Samsung Note 3](http://www.samsung.com/global/microsite/galaxynote3-gear/). I get a lot of ribbing about it being a ludicrously large phone. It is. But it is nice that I can read on it easily and really do full emailing without squinting. It's like a mini-tablet.
 
@@ -25,7 +23,7 @@ Then, there are our People SaaS systems—[Workday](http://www.workday.com/), [J
 
 I still really like the phone—highly efficient, particularly for one-on-ones. When not in person, I probably communicate most by email, second most by phone or Skype/GoogleHangout, third by IM (Trillian), and a distant fourth by texting on my phone.
 
-# "Soft" systems (skill and behaviors)
+## "Soft" systems (skill and behaviors)
 
 The most valuable class I had in junior high school was [touch typing](http://en.wikipedia.org/wiki/Touch_typing). I type fast (75 WPM). That has always been a huge part of my operating system.
 
