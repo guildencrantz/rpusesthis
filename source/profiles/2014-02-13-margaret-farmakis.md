@@ -5,18 +5,18 @@ date: 2014-02-13
 avatar: margaret-farmakis.jpeg
 ---
 
-# Who are you, and what do you do?
+## Who are you, and what do you do?
 
 My name is Margaret Farmakis and I’m the VP of Professional Services. I’ve worked at Return Path for seven years, and I manage a global team of expert consultants focused on solving our clients’ most challenging strategic problems as they relate to optimizing their email programs. I’ve worked from three Return Path offices, starting out in the New York office, helping to open the London office, and now working from our Sunnyvale office.
 
-# What hardware do you use?
+## What hardware do you use?
 
 * Standard issue RP hardware: laptop, phone
 * a [TANDBERG](http://www.cisco.com/c/en/us/solutions/telepresence/ttg.html) phone in my office in Sunnyvale (My team is spread out across multiple time zones in the US, Europe and Brazil, so this is a great way to stay connected, but the primary way I communicate is email, phone and IM.)
 * mobile phone: [Motorola DROID 4](http://www.motorola.com/us/DROID-4-by-Motorola/88569.html) (I need a slide-out keyboard and I don't love iPhones)
 * wireless internet card: [4G LTE Jetpack](http://www.verizonwireless.com/b2c/device/mobile-hotspot) on the Verizon network (I can work while I commute on the train from San Francisco to Sunnyvale three times a week.)
 
-# What software do you use?
+## What software do you use?
 
 * MS Office (mostly Outlook, Word, Excel & PowerPoint – I basically dream in PowerPoint)
 * Google Docs (great for some things, but a real pain when it comes to complex spreadsheets with multiple tabs)
@@ -32,7 +32,7 @@ My name is Margaret Farmakis and I’m the VP of Professional Services. I’ve w
 * Dropbo
 * iTunes (although I’m an Android fan)
 
-# Other random stuff
+## Other random stuff
 
 In terms of life, I don’t know how I ever survived without Google Maps on a smartphone. I have a terrible sense of direction and I travel a lot, so this is essential.
 

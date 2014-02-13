@@ -5,19 +5,19 @@ date: 2014-02-13
 avatar: nick-casares.jpg
 ---
 
-# Who are you, and what do you do?
+## Who are you, and what do you do?
 
 I’m Nickolaus Casares, UX Designer, and I work on a team of designers that help deliver B2B software.
 
 I’ve been involved with design of some form or another for close to 15 years and was a sound engineer in a previous life.
 
-# What hardware do you use?
+## What hardware do you use?
 
 At work, I use a 13” MacBook Pro connected to a 23” Dell monitor. At home, I use a 13” [MacBook Air](https://www.apple.com/macbook-air/). On the go, I use an [iPhone 5s](https://www.apple.com/iphone-5s/), an old [Kindle Keyboard](http://amzn.com/B004HFS6Z0) and a [large, plain Moleskine notebook](http://www.moleskine.com/en/collections/model/product/plain-notebook-large). The iPhone doubles as my camera because as they say, “the best camera is the one you have”.
 
 I try to keep my hardware simple and independent of extra gadgetry. I regularly take public transit to work so keeping my setup light and portable is important.
 
-# And what software?
+## And what software?
 
 I’ve tried a lot of software over the years, and lately I’ve been keeping it fairly simple.
 
@@ -43,7 +43,7 @@ For coding, I use [Sublime Text](http://www.sublimetext.com/) and store my proje
 
 Must have utilities include [Alfred](http://www.alfredapp.com/), [Dropbox](http://dropbox.com/), [iTerm 2](http://www.iterm2.com/), [Sip](http://theolabrothers.com/sip/), [LastPass ](https://lastpass.com/) and [Xmarks](http://www.xmarks.com/).
 
-# What's your dream setup?
+## What's your dream setup?
 
 Honestly, I’m pretty close to my dream setup. Five years ago I had a different answer but with the shift toward cloud storage and apps I’m a happy camper. I suppose the only thing I would like is a better way to quickly move photos between my iPhone and Mac (that’s still a clunky process).
 

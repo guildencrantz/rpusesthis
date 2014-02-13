@@ -5,7 +5,7 @@ date: 2014-02-13
 avatar: matt-henkel.jpg
 ---
 
-# Who are you, and what do you do?
+## Who are you, and what do you do?
 
 My name is Matt Henkel, and I'm a Software Engineer on the Anti-Phishing Solutions team. I started at RP in June 2007: I spent the first ten months working in Application Support before moving into a Software Engineering role on Campaign Preview—where I spent four crazy years. Prior to RP, I provided application support for StorageTek and PAR Tech.
 
@@ -13,7 +13,7 @@ My passion is meaning in data: helping with retrieval, architecting useful stora
 
 Besides coding, I'm a foodie (eater and cook), [enjoyer of beer](https://untappd.com/user/guildencrantz), coffee snob, board game geek, and role playing nerd. My best friend is an eight-pound chihuahua (the dog they call [Jayne](http://firefly.wikia.com/wiki/Jayne_Cobb)).
 
-# What hardware do you use?
+## What hardware do you use?
 
 I'm waiting for a replacement for my work laptop, but I currently have a [Latitude E4310](http://www.dell.com/us/business/p/latitude-e4310/pd) upgraded to 8GB RAM with a dock and a pair of [Dell 2009wt monitors](http://amzn.com/B007TNCMMU). Being a laptop the keyboard is horrible so for the last four years I've been using a [Logitech K350 wireless keyboard](http://www.logitech.com/en-us/product/wireless-keyboard-k350) and [Logitech Wireless Performance Mouse MX](http://www.logitech.com/en-us/product/performance-mouse-mx) (not that the mouse gets much use). A key piece of hardware for me in the office environment is a good pair of headphones: I'm currently using [Sennheiser HD 380 Pro](http://en-us.sennheiser.com/monitoring-headphone-studio-professional-audio-hd-380-pro) headphones. The biggest win in my hardware at RP is my desk: an adjustable sit/stand desk that saves my back.
 
@@ -23,11 +23,11 @@ My phone is a [black 32GB Nexus 5](https://www.google.com/nexus/5/). It's a soli
 
 I also have two [Pebble](https://getpebble.com/) smart watches (one original in grey, and one [Pebble Steel](https://getpebble.com/steel) in brushed stainless steel) and recently acquired [Google Glass](http://www.google.com/glass/start/) (Charcoal Glass with Split Tangerine frame). The watch has been quite convenient for providing small pieces of information in a subtle manner, however I still haven't figured out how Glass will integrate into my daily life.
 
-## Coffee
+### Coffee
 
 I'm a coffee nerd, and here's my setup:
 
-### Work
+#### Work
 
 * **Beans**: I recently stopped giving away my Starbucks gift cards and started using them to [buy credit](https://tonx.org/better) with the [Tonx](https://tonx.org/) subscription coffee service.
 	* Normally it's a bit expensive, but by actually using the Starbucks cards the price is pretty good—and the coffee has been very good so far.
@@ -37,7 +37,7 @@ I'm a coffee nerd, and here's my setup:
 * **Brew**: [aeropress](http://aerobie.com/products/aeropress.htm) + [S Filter](http://www.kaffeologie.com/shop/s-filter-for-aeropress-coffee-makers).
 * **Consume**: [Mug of Vi](http://www.nostarch.com/mug.htm) because :x.
 
-### Home
+#### Home
 
 * **Beans**: I generally source my beans from local roasters such as [Pablo's](https://www.pabloscoffee.com/) or defiant bean roasters—which has now merged with [Bonfire Coffee](http://www.bonfirecoffee.com/)
     * Occasionally roast my own with greens from [Sweet Maria's](http://www.sweetmarias.com/)
@@ -54,11 +54,11 @@ I'm a coffee nerd, and here's my setup:
 
 [1]:http://www.kitchenaid.com/shop/countertop-appliances-1/countertop-appliances-2/coffee-products-3/-[KCM0402ER]-401685/KCM0402ER/
 
-# Software
+## Software
 
 All my machines (personal and currently work laptop) run [Arch linux](https://archlinux.org). The core of my linux experience is my shell, which is currently [ZSH](http://www.zsh.org). I do not, however, run plain ZSH: I run [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) in addition to having ZSH automatically start, or connect to, [tmux](http://tmux.sourceforge.net/). Of course plain tmux isn't the prettiest or easiest to manage so I rely on [Powerline](https://github.com/Lokaltog/powerline) and [tmuxstart](https://github.com/treyhunner/tmuxstart).
 
-## vim
+### vim
 
 As most of my time is spent editing text I spend most of my time in [vim](http://www.vim.org/). While vim is pretty excellent by itself it's better with plugins, so I have to call out at least a few plugins:
 
@@ -81,13 +81,13 @@ As most of my time is spent editing text I spend most of my time in [vim](http:/
 
 And since I do spend so much time in vim (or on the shell in vim mode, or somewhere else that's in vim mode), one of the things that I've done that's absolutely amazing is swapped my ESC and CAPS LOCK keys system-wide. I could keep on with vim, but that's a talk all its own.
 
-## GUI
+### GUI
 
 So far that's all been in a terminal, but sometimes it's helpful to have a GUI, and that's why I run [awesome](http://awesome.naquadah.org/). Awesome is a hybrid window manager that I largely use in it's tiling mode. I've found that even though I was good at working virtual with desktops before, having a tiling manager has reduced the time I spend hunting for a window to effectively zero.
 
 Now that there's a GUI, it's easier to admit that there are times when vim isn't the best solution and IDEs make sense (like when writing Java). When that's the case I use [IntelliJ IDEA](http://www.jetbrains.com/idea/) with the [IdeaVim plugin](http://plugins.jetbrains.com/plugin/164).
 
-## Browser
+### Browser
 
 Of course, if I'm not editing text I'm probably in a browser. In my case that browser is [Chrome, Dev Channel](https://aur.archlinux.org/packages/google-chrome-dev/). Much like with vim, it's the plugins that really help the browser be awesome, and a few of the important ones I use are:
 
@@ -108,24 +108,24 @@ Of course, if I'm not editing text I'm probably in a browser. In my case that br
 * [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae)
     * KeePass is the greatest application ever, and this extension makes it behave much like LastPass or 1Password in the browser environment.
 
-## Passwords (and other important things)
+### Passwords (and other important things)
 
 As mentioned above, I use [KeePass](http://keepass.info/). All my passwords and important text strings go in KeePass. KeePass has a few benefits over other services (such as LastPass and 1Password):
 
 1. It's not hosted: my passwords don't go out to anybody else. The security is the same as the security to my systems.
 1. I can auto-type passwords into any window, not just web pages. I auto-type passwords into everything (including shells) based on window type and titles.
 
-## Sync
+### Sync
 
 One of the drawbacks of the "[i]t's not hosted" benefit is synchronization. Well, I'm a huge fan of [BitTorrent Sync](http://www.bittorrent.com/sync/) which allows you to automatically sync your files between your machines (even [Android](https://play.google.com/store/apps/details?id=com.bittorrent.sync)) without going through a third-party system—it's like Dropbox without Dropbox being able to see your stuff. I have all my passwords synced between three computers, my phone, and my tablet (I use [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) on the Android devices) without issue.
 
 Speaking of sync, I also run [Insync](https://www.insynchq.com/) to sync my Google Docs (both RP and personal) to my machines. I find this quite convenient because now I just store all my documents together and I don't have to worry about what's local and what's in the cloud.
 
-## Email
+### Email
 
 For email, I'm currently using [Thunderbird](http://www.mozilla.org/en-US/thunderbird/) with [ExQuilla for Microsoft Exchange](http://exquilla.zendesk.com/) and [Exchange EWS Provider](http://www.1st-setup.nl/wordpress/?page_id=133) so I can access my corporate email and calendar (*when will we move to Gmail?*). Of course I need to have at least some vim bindings, so I also rely heavily on [Muttator](http://www.vimperator.org/muttator).
 
-## Git & SSH
+### Git & SSH
 
 The stock apps that almost all of us use (like SSH and git) have some extremely useful features that it's well worth digging into the options of some of these tools we use so frequently:
 
@@ -141,7 +141,7 @@ User mhenkel
 ProxyCommand ssh -q stage.tst.returnpath.net nc %h.lan 22
 ```
 
-## Mobile
+### Mobile
 
 My Nexus 5 is stock 4.4.2 (rooted) running the [Vviate](http://getaviate.com/) launcher and [Cover](https://www.coverscreen.com/) lock screen. The more location aware my phone is, the happier I am, and these two pieces of software really help make sure that I can quickly access what I need (and because there are things I always want quick access to I also run [loopr](https://play.google.com/store/apps/details?id=com.fb.looprtaskswitcher)). In keeping with the location aware (and time aware) stuff, I've also programmed out a fair few actions (such as launching [Waze](https://www.waze.com/) when I get in my car or silencing my phone and launching [Lantern: A Campfire Client](https://play.google.com/store/apps/details?id=com.onemightyroar.lantern) when I get to the office) using [Tasker](http://tasker.dinglisch.net/). Do I even need to mention [Evernote](http://evernote.com/)?
 
@@ -153,6 +153,6 @@ On my Pebble I'm running [Canvas](http://pebblecanvas.blogspot.com/) in app mode
 
 On Glass so far the [Hangouts](http://www.google.com/+/learnmore/hangouts/) app has been my most used (besides the camera), but I recently got [shop [X]](http://www.shopxglass.co/) and have been in some discussions about presentation (PowerPoint, Google Presentations) controllers. Sadly, while I can send stuff from Glass to Evernote, I can't query Evernote from glass; I'm sure it's coming, but it's not there yet.
 
-# What would be your dream setup?
+## What would be your dream setup?
 
 I don't know what I don't know, so it's hard to say. Other than not yet having a really good task management solution across my devices, I'm generally pretty happy with my software situation. I'd love to see Glass extended more so I can do more without my hands. Additionally, I'd also love to see a device like the [Asus Transformer Book Trio](http://www.asus.com/in-search-of-incredible/us-en/asus-transformer-book-trio/) which runs Linux and Android; ometimes I want a laptop and sometimes I want a tablet, but I never want to carry both. Oh, and an [Aeron](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html) chair: I'd love to have an Aeron chair at RP again.

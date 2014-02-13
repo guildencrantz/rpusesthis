@@ -5,7 +5,7 @@ date: 2014-02-13
 avatar: christine-borgia.jpg
 ---
 
-# Work
+## Work
 
 My personal operating system is all about simplicity and efficiency. I want as few tools and steps as possible to get things done.
 
@@ -25,17 +25,17 @@ I use [FileZilla](https://filezilla-project.org/) for FTP, [1Password](https://a
 
 **For work, that’s pretty much it—streamlined and simple.**
 
-# Personal
+## Personal
 
 I keep personal and work separated as much as possible in order to support my work/life balance.
 
-## Hardware
+### Hardware
 
 I’m an Apple devotee with a white [iPhone 5s](http://www.apple.com/iphone-5s/), a white [iPad mini with Retina display (Wi-Fi)](http://www.apple.com/ipad-mini/), and a [MacBook Air (brand new, fully loaded)](http://www.apple.com/macbook-air/). The MacBook Air recently replaced my [2007 “vintage” MacBook Pro](http://support.apple.com/kb/sp13). The iPad is a bit superfluous but is handy as a portable device.
 
 [Kindle Paperwhite (2nd generation)](http://amzn.com/B00AWH595M)—I have used a [Kindle 2](http://amzn.com/B0015T963C) (2nd generation Kindle) for years, and I thought it couldn’t be improved upon. But when a family member recently dropped something heavy on it, I had to replace it. I would have bought another Kindle 2, but I was drawn to the background light on the Paperwhite, which is awesome and totally worth the upgrade.
 
-## Software
+### Software
 
 [Evernote](http://evernote.com/) for filing away all sorts of information—it’s [synced on my iPhone and iPad](http://appstore.com/evernote/evernote/), so I can always have the information at my fingertips. I keep my favorite recipes on here, articles I want to save, medical history for my family plus all information I might need if someone got hurt, favorite workouts, reading lists, etc.
 

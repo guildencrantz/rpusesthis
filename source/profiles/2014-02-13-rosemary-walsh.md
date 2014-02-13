@@ -5,17 +5,13 @@ date: 2014-02-13
 avatar: rosemary-walsh.jpg
 ---
 
-For my camera, I use the standard lens that it came with (17-55mm) but I also have zoom lens 75-300mm.
- http://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_75_300mm_f_4_5_6_iii_usm
-http://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_s_17_55_f_2_8_is_usm
-
-# Who Am I?
+## Who Am I?
 My name is Rosemary Walsh and I am on the Service Operations team in New York working to improve and streamline service efficiencies. Previously at Return Path I have been both an Account Manager and a Client Success Expert. Before coming to Return Path, I worked at two different ESPs – [WhatCounts](http://www.whatcounts.com/) and [Fishbowl](http://www.fishbowl.com/).
 
-# What Hardware Do I Use?
+## What Hardware Do I Use?
 I use a Dell notebook that runs Windows for work. I have a [black, 16GB Wi-Fi iPad 2](https://www.apple.com/ipad-2/specs/) at home. My iPad is always in a [DODOcase I customized](http://www.dodocase.com/products/dodocase-custom-cases) to be Hot Coral on the outside, Teal on the inside, with a Gray elastic. I also use a [gold, 16GB iPhone 5s](https://www.apple.com/iphone-5s/). I also use my [Canon EOS Rebel T1i](http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_rebel_t1i_ef_s_18_55mm_is_kit) (with both the standard [EF-S 17-55 f/2.8 IS USM](http://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_s_17_55_f_2_8_is_usm) lens and a [EF 75-300mm f/4-5.6 III USM](http://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_75_300mm_f_4_5_6_iii_usm) telephoto zoom lens) for taking digital photos, but have found myself using the iPhone camera more and more as the quality of the camera improves.
 
-# What Software Do I Use?
+## What Software Do I Use?
 
 As organization and documentation are key to success in my role, I spend a lot of time using Google products. I use [Chrome](http://www.google.com/chrome/) for my web browser, which I especially enjoy because I can login on different computers and have access to the same bookmarks, passwords, etc. I also rely heavily on Google Drive for the docs and spreadsheets, as well as my Google Calendar. Google Hangouts is my preferred means of online communication. I like that it stores all of your chats so that you can go back and look through the history. I find that I do this a lot when I know that I talked to someone about something but can’t remember the exact details. I have Google Hangouts integrated with [Trillian](https://www.trillian.im/) to be able to chat with all Return Path folks.
 

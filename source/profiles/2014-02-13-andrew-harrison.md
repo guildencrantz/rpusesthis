@@ -5,7 +5,7 @@ date: 2014-02-13
 avatar: andrew-harrison.jpg
 ---
 
-# Who are you, and what do you do?
+## Who are you, and what do you do?
 
 "Software Engineer, futurist, technologist, outdoor enthusiast, husband and father of 2" is what my LinkedIn profile says, which is accurate, if not a bit terse. I knew from a young age that my interests were in computers. I was the kid in elementary school who would rush to finish his in-class homework before the bus came to sneak in a few minutes of time on the [Apple II](http://en.wikipedia.org/wiki/Apple_II). My first language was [BASIC](http://en.wikipedia.org/wiki/BASIC), which I started tinkering with in 5th grade. I spent my first $900 to buy a used [Macintosh Classic II](http://en.wikipedia.org/wiki/Macintosh_Classic_II) in 1992 from my high school math teacher, Mr. Brown, who also got me excited about mathematics.
 
@@ -17,12 +17,12 @@ After 4 exciting years at ColdSpark, I did what many others from that company di
 
 I've bounced around quite a bit at Return Path, working at times on versions of InboxMonitor, InboxPreview, RNBL, SenderScore, and the project that became Inbox Insight. After the OtherInbox acquisition, I was presented the opportunity to join their Engineering group, working on what has ultimately become the Data Pipeline team, picking up the [Ruby](https://www.ruby-lang.org/) programming language along the way, to great joy. Ultimately, my family and I decided that we would take a plunge and choose a change of scenery, and we closed on our house in Austin last July.
 
-# What hardware do you use?
+## What hardware do you use?
 
-## Work
+### Work
 My dev box is a [Dell XPS 13](http://www.dell.com/us/p/xps-13-9333/pd), with a solid-state drive, running [Linux Mint 15](http://www.linuxmint.com/). I also have to pair that with a set of [SkullCandy Ink'd](http://www.skullcandy.com/shop/inkd) headphones (I have black, red, and gray). Oddly, I find some days I can't concentrate if I don't have headphones on, even if no music is playing. Oh, and a good ergonomic wireless mouse, as close in shape as possible to the [IBM 19K2002](http://amzn.com/B00005BAUL) (I've worn two of those out over the years).
 
-## Home
+### Home
 I tend to favor [ASUS](http://www.asus.com/) brand hardware, buying barebones machines and then assembling them when they arrive in the mail. Our latest family "desktop" purchase was an ASUS laptop, running, sadly, Windows. As for smartphones, I run Android.
 
 My most recent purchase was a [Raspberry Pi](http://www.raspberrypi.org/) which came in the mail last week. I have plans to have it running Google Calendar, attached to a screen mounted near the kitchen.
@@ -39,7 +39,7 @@ Other hardware of note:
 * [Skagen](http://www.skagen.com/store/Skagen/en_US/shop/mens/mens_watches.html) watch (Titanium 205LTXN)
 * [Adidas Kanadia TR](http://www.adidas.com/us/product/mens-running-kanadia-trail-6-shoes/IET62) running shoes (I wore out two model 3s, wearing a model 4 now, and have a model 5 in the closet.)
 
-# What software do you use?
+## What software do you use?
 
 Primarily I'm in a Linux environment, preferably a flavor of [Ubuntu](http://www.ubuntu.com/). I exclusively use [Chrome](http://www.google.com/chrome/‎) for browsing, and [IntelliJ IDEA](http://www.jetbrains.com/idea/) and [RubyMine](http://www.jetbrains.com/ruby/) IDEs for software development. For really hairy diffs, and especially when comparing folder/file structure, I use [Beyond Compare](http://www.scootersoftware.com/moreinfo.php). And yes, I'm an [Emacs](http://www.gnu.org/software/emacs/) guy.
 
