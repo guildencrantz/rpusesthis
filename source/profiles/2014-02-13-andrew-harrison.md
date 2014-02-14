@@ -30,6 +30,7 @@ My most recent purchase was a [Raspberry Pi](http://www.raspberrypi.org/) which 
 For the kids, we've purchased Bo & Yana from [Play-i](https://www.play-i.com/), but they've yet to be shipped. I'm really looking forward to teaching my 2- and 4-year-old how to program robots.
 
 Other hardware of note:
+
 * [Apple IIe](http://en.wikipedia.org/wiki/Apple_IIe)
 * Macintosh Classic II (yes, the same one)
 * [SPARCstation 5](http://en.wikipedia.org/wiki/SPARCstation_5)
