@@ -9,7 +9,7 @@ avatar: tom-sather.jpg
 
 My name is Tom Sather, and I am Senior Director of Research at Return Path. I run our content marketing program which includes things like research papers, ebooks, and webinars to demonstrate Return Path’s expertise in email.
 
-My iPhone 5s is essentially a part of my body at this point, so a lot of my productivity tools are mobile apps. I also use a MacBook for all design work and data analysis since it’s extremely capable of large tasks that PCs struggle with.
+My iPhone 5s is essentially a part of my body at this point, so a lot of my productivity tools are mobile apps. I also use a [15" MacBook Pro with Retina display](https://www.apple.com/macbook-pro/features-retina/) for all design work and data analysis since it’s extremely capable of large tasks that PCs struggle with.
 
 ## What apps do you use?
 
@@ -27,7 +27,7 @@ On my iPhone, I have a folder specifically called “Get Sh*t Done” which incl
 
 * [ActionMethod](https://www.actionmethod.com/) – Adobe bought this so I’m afraid they will ignore it, but it’s great for getting quick ideas and to-dos down. Definitely my #1 used app for managing tasks
 * [Reminders](http://support.apple.com/kb/HT4970)
-* [Boxer](http://www.getboxer.com/)
+* [TaskBox Pro](http://appsequence.com/)
 * [SmartSheet](http://www.smartsheet.com/) – mainly for work things. Love that it has a calendar feature which allows me to subscribe and sync across many calendars like Google or Outlook.
 * [Any.do](http://www.any.do/)
 * [Trello](https://trello.com/)
@@ -53,7 +53,7 @@ Since I frequently travel, I rely on a lot of travel apps to make sure I get whe
 * [Uber](https://www.uber.com/)
 * [App in the Air](http://i.appintheair.mobi/)
 * [GateGuru](http://www.gateguru.com/)
-* Car Rental
+* [Airport Car Rental](https://itunes.apple.com/us/app/airport-car-rental/id469306631)
 * [Triposo](http://www.triposo.com/)
 
 ### Cloud Storage (both mobile and desktop)
@@ -68,7 +68,7 @@ These allow me to quickly find files to share with others, whether I’m at my d
 
 I use these apps to make sure that I can train my brain to get **MORE** stuff done and remember more stuff:
 
-* Recorder (records EEGs)
+* [EEG Recorder](https://itunes.apple.com/us/app/eeg-recorder/id668393484)
 * [Lumosity](http://www.lumosity.com/)
 * [Cerego](http://cerego.com/)
 * [BrainCopter](http://braincopter.weebly.com/)
