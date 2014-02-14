@@ -28,7 +28,7 @@ Writing one took longer than expected, and he needed to finish the Hackathon pro
 
 ## You didn't answer my question.
 
-Please reach out to Hoon in the method of your choice:
+Please reach out to Hoon with the method of your choice:
 
 * [Email](mailto:hoon.park@returnpath.com)
 * [Twitter](https://twitter.com/hoonpark)
